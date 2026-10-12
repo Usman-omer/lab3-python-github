@@ -1,4 +1,5 @@
 while True:
+    print("This is improves calculator")
     num1 = int(input("Enter num#1: "))
     num2 = int(input("Enter num#2: "))
     func = int(input("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Check Even/Odd\n6. Calculate Percentage\n7. Exit\n"))
